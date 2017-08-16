@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title><![CDATA[再一次开始]]></title>
-      <url>/2017/08/restart.html</url>
-      <content type="html"><![CDATA[<p>作为一个强迫症患者，总是想把能控制的一切都变得整齐完美，高考完就开始建博客，到现在也没有搞得很满意。</p>
-<p>在经历了臃肿的Wordpress，受限制的Lofter和Tumbler之后，为了省钱和博客的自由，这次选择用HEXO+Github搭建博客，并且申请了一个<a href="http://wispring.me">新域名</a>，以后那个域名就不用了，文章也懒得迁移过来了，应该不会再换地方了。</p>
-<p>以后慢慢更新吧，不立Flag了。</p>
-]]></content>
-      
-        
-    </entry>
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[再一次开始]]></title>
+    <url>%2F2017%2F08%2Frestart.html</url>
+    <content type="text"><![CDATA[作为一个强迫症患者，总是想把能控制的一切都变得整齐完美，高考完就开始建博客，到现在也没有搞得很满意。 在经历了臃肿的Wordpress，受限制的Lofter和Tumbler之后，为了省钱和博客的自由，这次选择用HEXO+Github搭建博客，并且申请了一个新域名，以后那个域名就不用了，文章也懒得迁移过来了，应该不会再换地方了。 以后慢慢更新吧，不立Flag了。]]></content>
+  </entry>
 </search>
